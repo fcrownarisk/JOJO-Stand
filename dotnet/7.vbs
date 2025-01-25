@@ -1,0 +1,1 @@
+DirectCast(https://shonenjumpplus.com/episode/3269632237275906867)

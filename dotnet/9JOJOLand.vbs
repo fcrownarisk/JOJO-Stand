@@ -1,0 +1,1 @@
+DirectCast(https://ja.wikipedia.org/wiki/The_JOJOLands)
