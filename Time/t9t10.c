@@ -1,4 +1,4 @@
-import "HTML/UnbreakableDiamond.html"
+#include "HTML/UnbreakableDiamond.html"
 let t9:any
 let t10:any
 void function t9t10(){
