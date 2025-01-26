@@ -1,4 +1,4 @@
-import "HTML/BizarreAdventure.html"
+#include "HTML/BizarreAdventure.html"
 let t1:any
 let t2:any
 void function t1t2(){
