@@ -1,4 +1,4 @@
-import "HTML/ijPart.html"
+#include "HTML/ijPart.html"
 let t5:any
 let t6:any
 void function t5t6(){
