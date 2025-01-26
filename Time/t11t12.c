@@ -1,4 +1,4 @@
-import "HTML/StoneOcean.html"
+#include "HTML/StoneOcean.html"
 let t11:any
 let t12:any
 void function t11t12(){
