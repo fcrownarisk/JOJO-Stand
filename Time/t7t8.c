@@ -1,4 +1,4 @@
-import "HTML/GoldenWind.html"
+#include "HTML/GoldenWind.html"
 let t7:any
 let t8:any
 void function t7t8(){
