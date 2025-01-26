@@ -1,4 +1,4 @@
-import "HTML/DustEncounterArmy.html"
+#include "HTML/DustEncounterArmy.html"
 let t3:any
 let t4:any
 void function t3t4(){
