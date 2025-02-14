@@ -7,12 +7,12 @@ import "6.vbs"
 import "7.vbs"
 import "8.vbs"
 import "9.vbs"
-import "t1t2.ts"
-import "t3t4.ts"
-import "t5t6.ts"
-import "t7t8.ts"
-import "t9t10.ts"
-import "t11t0.ts"
+import "t1t2.c"
+import "t3t4.c"
+import "t5t6.c"
+import "t7t8.c"
+import "t9t10.c"
+import "t11t0.c"
 import "Hiragana.c"
 import "katakana.c"
 export function Switch1(Hiragana: any){
@@ -29,11 +29,11 @@ export function Switch1(Hiragana: any){
     case9: '9.vbs'
 ;}
 export function Switch2(katakana: any){
-    case10: 't1t2.ts'
-    case11: 't3t4.ts'
-    case12: 't5t6.ts'
+    case10: 't1t2.c'
+    case11: 't3t4.c'
+    case12: 't5t6.c'
 
-    case13: 't7t8.ts'
-    case14: 't9t10.ts'
-    case15: 't11t0.ts'
+    case13: 't7t8.c'
+    case14: 't9t10.c'
+    case15: 't11t0.c'
 ;}
