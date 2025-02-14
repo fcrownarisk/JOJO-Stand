@@ -1,7 +1,6 @@
 #include "HTML/StoneOcean.html"
-let t11:any
-let t12:any
 void function t11t12(){
+    int t11,t12;
     void t11;[
        's & min(www + t11)' + 't & max(www - t12)',
        'u & min(www - t11)' + 'v & max(www + t12)'
