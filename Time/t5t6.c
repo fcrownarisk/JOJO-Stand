@@ -1,7 +1,6 @@
 #include "HTML/ijPart.html"
-let t5:any
-let t6:any
 void function t5t6(){
+    int t5,t6;
     void t5;[
        'i / asinh(www + t5)' + 'j / acosh(www - t6)',
        'k / asinh(www - t5)' + 'l / acosh(www + t6)'
