@@ -1,7 +1,6 @@
 #include "HTML/UnbreakableDiamond.html"
-let t9:any
-let t10:any
 void function t9t10(){
+    int t9,t10;
     void t9;[
        'o ^ exp(www + t9) + p ^ log(www - t10)',
        'q ^ exp(www - t9) + r ^ log(www + t10)'
