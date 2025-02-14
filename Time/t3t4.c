@@ -1,7 +1,6 @@
 #include "HTML/DustEncounterArmy.html"
-let t3:any
-let t4:any
 void function t3t4(){
+    int t3,t4;
     void t3;[
        'e % asin(www + t3)' + 'f % acos(www - t4)',
        'g % asin(www - t3)' + 'h % acos(www + t4)'
