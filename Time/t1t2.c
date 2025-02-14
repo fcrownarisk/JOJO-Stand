@@ -1,7 +1,6 @@
 #include "HTML/BizarreAdventure.html"
-let t1:any
-let t2:any
 void function t1t2(){
+    int t1,t2;
     void t1;[
        'a * sin(www + t1)' + 'b * cos(www - t2)',
        'c * sin(www - t1)' + 'd * cos(www + t2)'
